@@ -1,0 +1,16 @@
+{
+  "b_k_exact": "41/16",
+  "b_k_numerical": 2.5625,
+  "q_k_exact": "-185/32 - 2*log(2)",
+  "q_k_numerical": -7.167544361119891,
+  "utility_val_exact": "-103/32 - 2*log(2)",
+  "utility_val_numerical": -4.605044361119891,
+  "comparison_val_exact": "-65/16 - log(2)",
+  "comparison_val_numerical": -4.755647180559945,
+  "difference_exact": "27/32 - log(2)",
+  "difference_numerical": 0.15060281944005469,
+  "difference_positive": true,
+  "delta_0": 2,
+  "b_at_h1": 2.5625,
+  "counterexample_valid": true
+}

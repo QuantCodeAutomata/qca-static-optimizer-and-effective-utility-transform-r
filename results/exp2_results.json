@@ -1,0 +1,30 @@
+{
+  "gamma1": 1.8601470508735443,
+  "gamma2": -0.8601470508735443,
+  "roots_ok": true,
+  "root_residual_g1": 6.938893903907228e-18,
+  "root_residual_g2": 6.938893903907228e-18,
+  "z_rho_min": 0.05621734438287372,
+  "z_rho_max": 0.27379870748948815,
+  "z_rho_positive": true,
+  "z_rho_less_than_Gamma": true,
+  "A_rho_computed": true,
+  "dR_da_residual": 7.4976283459538e-07,
+  "value_matching_jump": 3.1508169118232843e-06,
+  "value_matching_ok": true,
+  "J_rho_values": [
+    -13.447881640906308,
+    -16.870664215442527,
+    -22.506164390038943,
+    -30.070676595945375
+  ],
+  "J_rho_yy": 20.386607957334487,
+  "convexity_ok": true,
+  "ystar": 1.8019100809581792,
+  "J_at_ystar": -28.702509218410935,
+  "primal_dual_value": -16.08913865170368,
+  "budget_mean": 1.3784687938268556,
+  "budget_se": 0.022321906535224954,
+  "budget_target": 7.0,
+  "status": "completed"
+}

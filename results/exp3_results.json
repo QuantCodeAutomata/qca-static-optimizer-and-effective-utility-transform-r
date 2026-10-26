@@ -1,0 +1,29 @@
+{
+  "delta0": 2.6,
+  "delta0_formula_match": true,
+  "zeta0_min": 0.6882722463746631,
+  "zeta0_max": 0.6882722463746631,
+  "zeta0_in_01": true,
+  "z0_positive": true,
+  "B0_computed": true,
+  "B0_min": -62.09056608926101,
+  "Phi0_y_fd_residual": 4.890687250735937e-07,
+  "V0_values": [
+    -3.257916310489339,
+    -19.507717467174906,
+    -30.519340849903255,
+    -48.46214588477969
+  ],
+  "V0_yy": 15.725523769736839,
+  "convexity_ok": true,
+  "vi_residual": 2.220446049250313e-16,
+  "ystar": 928.7981882918016,
+  "V0_at_ystar": -1845.1061396173118,
+  "primal_dual_value": -916.3079513255102,
+  "analytical_budget": 0.9999999999999994,
+  "analytical_budget_err": 5.551115123125783e-16,
+  "budget_mean": 1.04228545238182,
+  "budget_se": 0.04282209111403982,
+  "budget_T": 100.0,
+  "status": "completed"
+}
